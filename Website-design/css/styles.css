@@ -1,0 +1,108 @@
+
+body {
+    margin: 0px;
+}
+
+/* titel */
+
+.titel {
+    background-color: #d3c4be;
+    width: 100%;
+}
+
+.titel h1 {
+    text-align: center;
+    padding: 20px;
+    font-size: 60px;
+    margin: 0px;
+}
+
+.titel a {
+    text-decoration: none;
+    color: #47403d;
+}
+
+/* navigation */
+
+.navigation {
+    width: auto;
+    text-align: center;
+    padding: 0;
+    padding: 40px;
+    margin: 0;
+}
+
+.navigation li {
+    display: inline;
+}
+
+.navigation li a {
+    text-decoration: none;
+    color: #47403d;
+    font-size: 24px;
+    margin: 20px;
+    padding: 10px;
+}
+
+.navigation li a:hover {
+    color: #d3c4be;
+    background-color: #47403d;
+    border-radius: 10%;
+}
+
+.navigation .active a {
+    color: #47403d;
+    background-color: #d3c4be;
+    border-radius: 10%;
+}
+
+.smolline {
+    background-color: #d3c4be;
+    height: 5px;
+}
+
+/* Welkom */
+
+.welkom {
+    text-align: center;
+    color: #47403d;
+}
+
+.welkom h2 {
+    font-size: 40px;
+}
+
+.welkom p {
+    font-family: 'Reem Kufi Fun';
+    font-size: 20px;
+}
+
+/* Colors */
+
+.colors {
+    margin: 0 30%;
+    text-align: center;
+    align-items: center;
+}
+
+.gray {
+    background-color: #999999;
+}
+
+.pink {
+    background-color: #EBCFC4;
+}
+
+.orange {
+    background-color: #E9CCB1;
+}
+
+.gray, .pink, .orange {
+    border-radius: 25px;
+    height: 150px;
+    margin: 50px;
+    line-height: 200%;
+    font-size: 25px;
+    padding: 1% 0;
+    font-family: 'Reem Kufi Fun';
+}
