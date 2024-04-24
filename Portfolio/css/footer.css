@@ -1,0 +1,19 @@
+#footer{
+    height: 50px;
+    width: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    background-color: #9d9ac57e;
+    position: fixed;
+    bottom: 0;
+}
+
+
+#footer h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: center;
+    padding: 7px;
+    color: #42415798;
+    letter-spacing: 2px;
+}

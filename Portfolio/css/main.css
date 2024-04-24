@@ -1,0 +1,265 @@
+#article1 {
+    width: 100%;
+    background-color: #b2a2e7;
+    text-align: center;
+    padding: 100px 0 0 0;
+    border-bottom: 3px solid #cdcaf1;
+}
+
+#article1 h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    padding: 50px 0 50px 0;
+    color: #424157;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
+
+
+
+#overmij {
+    width: 100%;
+    text-align: center;
+    border-bottom: 3px solid #cdcaf1;
+    font-weight: bolder;
+}
+
+#overmij-article2 {
+    height: 690px;
+    background-image: url(../pics/Background.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat no-repeat;
+}
+
+#overmij-article3 {
+    background-color: #aba5e9;
+}
+
+#overmij-article4 {
+    background-color: #c9c4f8;
+}
+
+#overmij h2 {
+    padding: 200px 250px 20px 250px;
+    width: 100%;
+    color: #424157;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size: 27px;
+}
+
+#overmij p {
+    padding: 30px 350px 200px;
+    width: 100%;
+    color: #5b545b;
+    line-height: 28px;
+    letter-spacing: 0.5px;
+}
+
+
+
+
+
+
+#opleidingen{
+    width: 100%;
+    text-align: center;
+    border-bottom: 3px solid #cdcaf1;
+    font-weight: bolder;
+}
+
+#opleidingen-article2 {
+    background-color: #c9c4f8;
+}
+
+#opleidingen-article3 {
+    background-color: #aba5e9;
+}
+
+#opleidingen h2 {
+    padding: 200px 250px 20px 250px;
+    width: 100%;
+    color: #424157;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size: 27px;
+}
+
+#opleidingen p {
+    padding: 30px 350px 250px;
+    width: 100%;
+    color: #5b545b;
+    line-height: 28px;
+    letter-spacing: 0.5px;
+}
+
+
+
+
+
+
+#projecten {
+    width: 100%;
+    text-align: center;
+    border-bottom: 3px solid #cdcaf1;
+    font-weight: bolder;
+}
+
+#projecten-article2 {
+    background-color: #a59fdf;
+}
+
+#projecten-article3 {
+    background-color: #c6c0e5;
+}
+
+#projecten-article4 {
+    background-color: #afa8da;
+}
+
+#projecten-article5 {
+    background-color: #c6c0e5;
+}
+
+#projecten h2 {
+    padding: 200px 250px 20px 250px;
+    width: 100%;
+    color: #424157;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size: 27px;
+    font-weight: bolder;
+}
+
+#projecten p{
+    padding: 30px 350px 250px;
+    width: 100%;
+    color: #5b545b;
+    line-height: 28px;
+    letter-spacing: 0.5px;
+}
+
+
+
+
+
+
+#stage {
+    width: 100%;
+    text-align: center;
+    border-bottom: 3px solid #cdcaf1;
+    font-weight: bolder;
+}
+
+#stage-article2 {
+    background-color: #c2bbee;
+}
+
+#stage-article3 {
+    background-color: #a59de5;
+}
+
+#stage h2{
+    padding: 200px 250px 20px 250px;
+    width: 100%;
+    color: #424157;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size: 27px;
+    font-weight: bolder;
+}
+
+#stage p {
+    padding: 30px 350px 250px;
+    width: 100%;
+    color: #5b545b;
+    line-height: 28px;
+    letter-spacing: 0.5px;
+}
+
+
+
+
+
+
+#werk {
+    width: 100%;
+    text-align: center;
+    border-bottom: 3px solid #cdcaf1;
+    font-weight: bolder;
+}
+#werk-article2 {
+    background-color: #a79fe7;
+}
+
+#werk-article3 {
+    background-color: #928add;
+}
+
+#werk-article4 {
+    background-color: #b7b0f7;
+}
+
+#werk h2{
+    padding: 200px 250px 20px 250px;
+    width: 100%;
+    color: #424157;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size: 27px;
+    font-weight: bolder;
+}
+
+#werk p {
+    padding: 30px 350px 250px;
+    width: 100%;
+    color: #5b545b;
+    line-height: 28px;
+    letter-spacing: 0.5px;
+}
+
+
+
+
+
+
+#hobbies {
+    width: 100%;
+    text-align: center;
+    border-bottom: 3px solid #cdcaf1;
+    font-weight: bolder;
+}
+
+#hobbies-article2 {
+    background-color: #9a92db;
+}
+
+#hobbies-article3 {
+    background-color: #b4aeec;
+
+}
+
+#hobbies-article4 {
+    background-color: #a59fdf;
+}
+
+#hobbies-article5 {
+    background-color: #9b95d6;
+}
+
+
+
+#hobbies h2{
+    padding: 200px 250px 20px 250px;
+    width: 100%;
+    color: #424157;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size: 27px;
+    font-weight: bolder;
+}
+
+#hobbies p {
+    padding: 30px 350px 250px;
+    width: 100%;
+    color: #5b545b;
+    line-height: 28px;
+    letter-spacing: 0.5px;
+}
